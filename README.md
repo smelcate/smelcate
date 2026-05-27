@@ -1,5 +1,11 @@
 ## Hi there 👋
+Ao longo da minha vida profissional venho me deparando com desafios novos e aprendendo com eles, tendo conhecimento nas mais diversas áreas tecnológicas. Sou considerado proativo, perfil champion, hands-on, empenhado, organizado, comunicativo, resolutivo e com boa documentação. Me considero hoje em dia como uma pessoa curiosa, que gosta de criar documentações como diagramas e artigos de bases de conhecimento, que tem um carinho pela parte técnica e operacional, mesmo trabalhando com a gestão das equipes.
 
+Trabalho com equipes com diferentes skills, como equipes de suporte, líderes técnicos, plantonistas de sobreaviso, DevOps, desenvolvedores, SRE e monitoramento. Atuo tanto na priorização das atividades, interface com clientes e usuários, gemba walk, retirada de impedimentos, feedbacks, treinamentos de outras equipes e de novas pessoas no time, recrutamento e seleção e apoio como líder técnico com visão de arquitetura quando necessário. Atualmente utilizando SAFe, Scrum e Kanban como forma de organização e gerenciamento dos times.
+
+Devido a vivência em operações conheço processos de gestão de mudança, gestão de problemas, gestão de crises, processos de governança e atuações em projetos de desenvolvimento de softwares, implantação e reestruturação de sistemas, utilizando metodologias ágeis e waterfall.
+
+Estou habituado a lidar com arquiteturas complexas, a realização de troubleshootings destes ambientes, documentando a atividade, aumentando a qualidade da base de conhecimento, reduzindo no tempo de impacto e melhoria na qualidade do atendimento. Também com o foco da melhoria da sustentabilidade do ambiente, já sugeri e desenvolvi rotinas que tornam o ambiente mais resiliente, simples e de rápida identificação e correção do mesmo em caso de impacto.
 <!--
 **smelcate/smelcate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
